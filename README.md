@@ -31,7 +31,7 @@ rank = np.linalg.matrix_rank(A)
 print(rank)
 
 ## Output:
-![{88CA9D65-8387-485D-975B-CF9BEED7FD07}](https://github.com/user-attachments/assets/8927cc8e-e638-4289-84aa-e96d13bf3afb)
+![{D7D7E285-BECF-46AA-BEE1-F62CDBB2F857}](https://github.com/user-attachments/assets/b3a49c39-8725-4166-904f-9ab5c5b463c7)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
